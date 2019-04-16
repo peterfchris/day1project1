@@ -1,1 +1,1 @@
-Peter Christensen
+const myName="Peter";
